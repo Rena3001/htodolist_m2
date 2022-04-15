@@ -1,0 +1,130 @@
+.container {
+    width: 336px;
+    height: auto;
+    border: 1px solid rgba(196, 196, 196, 1);
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+}
+
+.yellow {
+    width: 100%;
+    height: 30px;
+    background-color: #FFDC40;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+}
+
+.textt {
+    height: 40px;
+    width: 286px;
+    left: 436px;
+    top: 359px;
+    border-radius: 10px;
+
+    border: 1px solid rgba(196, 196, 196, 1);
+
+
+
+
+}
+
+.ishare {
+
+    height: 22px;
+    width: 22px;
+    right: 10%;
+    border: 1px solid #c4c4c4;
+    top: 23%;
+    position: absolute;
+    display: flex;
+    border-radius: 40px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.metn {
+    justify-content: end;
+    display: flex;
+}
+
+li {
+    border: 1%;
+    justify-content: first baseline;
+    display: flex;
+}
+
+
+.dobavit {
+    background-color: #833AE0;
+    position: relative;
+    height: 42px;
+    width: 150px;
+    border: none;
+    border-radius: 71px;
+    margin-top: -3px;
+
+}
+
+.daire {
+    border: 1px solid rgba(196, 196, 196, 1);
+    margin-left: 88px;
+    height: 25px;
+    width: 25px;
+    border-radius: 58%;
+    background-color: white;
+    position: absolute;
+    right: 10%;
+    top: 20%;
+}
+
+.add {
+    color: #FFFFFF;
+    margin-right: -12%
+}
+
+.plus {
+    position: absolute;
+    background-color: #9953F1;
+    color: #FFFFFF;
+    left: 0;
+    height: 40px;
+    width: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 71px;
+
+}
+
+.arrow {
+    margin: 0 25px 5px 0;
+    height: 15px;
+    width: 25px;
+    left: 182px;
+    top: -1031px;
+    border-radius: 0px;
+
+}
+
+.metnisharesi {
+    width: 10px;
+    height: 10px;
+}
+
+ul {
+    padding: 0;
+    border: 1px solid rgba(196, 196, 196, 1);
+    border-radius: 10px;
+}
+
+ul li {
+    position: relative;
+
+}
+.daire:hover{
+    background-color: #833AE0;
+}
